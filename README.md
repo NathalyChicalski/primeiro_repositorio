@@ -1,4 +1,6 @@
 # primeiro_repositorio
  Cricação do primeiro repositório para teste
+ <br>
 Realização do primeiro COMMIT
-Realização do segundo COMMIT
+<br>
+Realização do segundo COMMIT 
